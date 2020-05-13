@@ -5,7 +5,7 @@
 Setup project environment with:
 
 ```
-$ git clone drf_example
+$ git clone https://github.com/pmuston/drf_example.git
 $ cd drf_example/
 $ python3 -m venv venv
 $ . venv/bin/activate
